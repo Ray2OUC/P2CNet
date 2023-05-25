@@ -1,2 +1,2 @@
 # P2CNet
-Coming soon
+Our work is under peer review and it will be available soon after publishment.
