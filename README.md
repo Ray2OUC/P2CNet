@@ -9,7 +9,7 @@ The compensation network and model weights are provided in the models and ckpt f
 For the enhancement network and the model weights of CLUIE, please refer to the [CLUIE-Net](https://github.com/justwj/CLUIE-Net)
 
 # DEMO：P2CNet+CLUIE-Net
-We provide the enhancement demo of using P2CNet and CLUIE-Net in demo.ipynb and test.py, which are easily to be adapted to be intergrated with most existing enhancement models or algorthms.
+We provide the enhancement demo of using P2CNet and CLUIE-Net in demo.ipynb and test.py, which are easily to be adapted to most existing enhancement models or algorthms.
 
 # Citation
 
