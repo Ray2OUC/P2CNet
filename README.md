@@ -1,7 +1,7 @@
 # Deep Color Compensation for Generalized Underwater Image Enhancement
 Demo and Implementation of P2CNet
 
-Our work is under peer review and it will be made available soon once being accepted.
+Our work is accepted by IEEE Transactions on Circuits and Systems for Video Technology 2023.
 
 # Pre-Trained Weights
 The compensation network and model weights are provided in the models and ckpt files respectively.
@@ -16,13 +16,13 @@ We provide the enhancement demo of using P2CNet and CLUIE-Net in demo.ipynb and 
 If you are interested in this work, please cite the following work:
 
 ```
-@ARTICLE{10058693,
-  author={Rao, Yuan and Ju, Yakun and Wang, Sen and Gao, Feng and Fan, Hao and Dong, Junyu},
-  journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={Learning Enriched Feature Descriptor for Image Matching and Visual Measurement}, 
+@ARTICLE{10220126,
+  author={Rao, Yuan and Liu, Wenjie and Li, Kunqian and Fan, Hao and Wang, Sen and Dong, Junyu},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Deep Color Compensation for Generalized Underwater Image Enhancement}, 
   year={2023},
-  volume={72},
+  volume={},
   number={},
-  pages={1-12},
-  doi={10.1109/TIM.2023.3249237}}
+  pages={1-1},
+  doi={10.1109/TCSVT.2023.3305777}}
 ```
