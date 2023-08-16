@@ -1,5 +1,5 @@
 # Deep Color Compensation for Generalized Underwater Image Enhancement
-Demo and Implementation of P2CNet
+Demo and Implementation of P2CNet and two-stage UIE
 
 Our work is accepted by IEEE Transactions on Circuits and Systems for Video Technology 2023.
 
