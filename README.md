@@ -1,10 +1,24 @@
 # Deep Color Compensation for Generalized Underwater Image Enhancement
-Demo and Implementation of P2CNet and two-stage UIE (An free lunch for most existing UIE models without any tuning)
-![P2CNet](/samples/model.jpg)
+Demo and Implementation of P2CNet and two-stage UIE (An free lunch for most existing UIE models without any tuning):
+
+![P2CNet](/samples/comp.jpg)
+
+Our approach can successfully break through the generalization bottleneck of current deep UIE models without re-training:
+
+![Deep](/samples/deep_models.jpg)
+
+Our approach can also benefit DCP-based methods by effective dark channel extraction:
+
+![DCP](/samples/dcp.jpg)
+
 Our work is accepted by IEEE Transactions on Circuits and Systems for Video Technology 2023.
 
+# Probabilistic Color Compensation Network Architecture
+Our P2CNet estimates the probabilistic distribution of colors by multi-scale volumetric fusion of texture and color features.
+![P2CNet](/samples/model.jpg)
+
 # Pre-Trained Weights
-The compensation network and model weights are provided in the models and ckpt files respectively.
+The P2CNet network and model weights are provided in the models and ckpt files respectively.
 
 For the enhancement network and the model weights of CLUIE, please refer to the [CLUIE-Net](https://github.com/justwj/CLUIE-Net)
 
