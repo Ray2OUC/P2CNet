@@ -1,6 +1,6 @@
 # Deep Color Compensation for Generalized Underwater Image Enhancement
 Demo and Implementation of P2CNet and two-stage UIE (An free lunch for most existing UIE models without any tuning)
-![HIFT](/samples/model.png)
+![P2CNet](/samples/model.png)
 Our work is accepted by IEEE Transactions on Circuits and Systems for Video Technology 2023.
 
 # Pre-Trained Weights
