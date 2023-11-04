@@ -15,6 +15,7 @@ Our work is accepted by IEEE Transactions on Circuits and Systems for Video Tech
 
 # Probabilistic Color Compensation Network Architecture
 Our P2CNet estimates the probabilistic distribution of colors by multi-scale volumetric fusion of texture and color features.
+
 ![P2CNet](/samples/model.jpg)
 
 # Pre-Trained Weights
