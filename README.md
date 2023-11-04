@@ -11,7 +11,7 @@ Our approach can also benefit DCP-based methods by effective dark channel extrac
 
 ![DCP](/samples/dcp.jpg)
 
-Our work is accepted by IEEE Transactions on Circuits and Systems for Video Technology 2023.
+Our work was accepted by IEEE Transactions on Circuits and Systems for Video Technology 2023.
 
 # Probabilistic Color Compensation Network Architecture
 Our P2CNet estimates the probabilistic distribution of colors by multi-scale volumetric fusion of texture and color features.
