@@ -35,9 +35,9 @@ If you are interested in this work, please cite the following work:
   author={Rao, Yuan and Liu, Wenjie and Li, Kunqian and Fan, Hao and Wang, Sen and Dong, Junyu},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={Deep Color Compensation for Generalized Underwater Image Enhancement}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-1},
+  year={2024},
+  volume={34},
+  number={4},
+  pages={2577-2590},
   doi={10.1109/TCSVT.2023.3305777}}
 ```
