@@ -1,4 +1,4 @@
-# Deep Color Compensation for Generalized Underwater Image Enhancement
+# Deep Color Compensation for Generalized Underwater Image Enhancement [T-CSVT24]
 Demo and Implementation of P2CNet and two-stage UIE (An free lunch for most existing UIE models without any tuning):
 
 ![P2CNet](/samples/comp.jpg)
@@ -11,7 +11,7 @@ Our approach can also benefit DCP-based methods by effective dark channel extrac
 
 ![DCP](/samples/dcp.jpg)
 
-Our work was accepted by IEEE Transactions on Circuits and Systems for Video Technology 2023, and can be early accessed via [manuscript](https://ieeexplore.ieee.org/document/10220126).
+Our work was published on IEEE Transactions on Circuits and Systems for Video Technology 2024, and can be accessed via [manuscript](https://ieeexplore.ieee.org/document/10220126).
 
 # Probabilistic Color Compensation Network Architecture
 Our P2CNet estimates the probabilistic distribution of colors by multi-scale volumetric fusion of texture and color features.
