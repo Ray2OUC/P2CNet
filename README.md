@@ -1,4 +1,4 @@
-# Deep Color Compensation for Generalized Underwater Image Enhancement [T-CSVT24]
+# Deep Color Compensation for Generalized Underwater Image Enhancement [T-CSVT 2024]
 Demo and Implementation of P2CNet and two-stage UIE (An free lunch for most existing UIE models without any tuning):
 
 ![P2CNet](/samples/comp.jpg)
