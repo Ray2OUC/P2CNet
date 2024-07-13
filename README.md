@@ -26,8 +26,14 @@ For the enhancement network and the model weights of CLUIE, please refer to the 
 # DEMO：P2CNet+CLUIE-Net
 We provide the enhancement demo of using P2CNet and CLUIE-Net in demo.ipynb and test.py, which are easily to be adapted with most existing enhancement models or algorthms.
 
+# Train：P2CNet
+We provide the cleaned code for training P2CNet in train.py, please read the annotations in this code file.
+Here are some helpful tips for training P2CNet:
+1. Preparing workspace.
+2. Preparing pre-resized SUIM-E data in train_path (320*320 in our experiments) and test_path (256*256).
+3. You may add some metrics (for example the UIQM) for the test phase to see what happens during the training.
+   
 # Citation
-
 If you are interested in this work, please cite the following work:
 
 ```
