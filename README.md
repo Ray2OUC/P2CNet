@@ -30,7 +30,7 @@ We provide the enhancement demo of using P2CNet and CLUIE-Net in demo.ipynb and 
 We provide the cleaned code for training P2CNet in train.py, please read the annotations in this code file.
 Here are some helpful tips for training P2CNet:
 1. Preparing workspace.
-2. Preparing pre-resized SUIM-E data in train_path (320*320 in our experiments) and test_path (256*256).
+2. Preparing pre-resized SUIM-E data in train_path (320x320 in our experiments) and test_path (256x256).
 3. You may add some metrics (for example the UIQM) for the test phase to see what happens during the training.
    
 # Citation
